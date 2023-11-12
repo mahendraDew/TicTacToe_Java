@@ -8,7 +8,7 @@ To run the Tic Tac Toe game, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/mahendraDew/TicTacToe_Java.git
 
 2. **Compile the Java Code:**
    ```bash
